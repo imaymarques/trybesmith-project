@@ -1,13 +1,19 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# <b> TrybeSmith Project</b>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Este é um projeto que cria uma API para uma loja de itens medievais, utilizando Typescript. A API permite a criação, leitura, atualização e exclusão de itens de uma loja, além de permitir o cadastro e autenticação de usuários.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Funcionalidades
+<b>Autenticação:</b> Os usuários podem se cadastrar e fazer login na API para realizar ações de gerenciamento da loja.
+
+<b>CRUD de produtos:</b> Os usuários autenticados podem criar, ler, atualizar e excluir produtos da loja.
+
+<b>Tecnologias utilizadas</b>
+
+Typescript: Linguagem de programação utilizada para escrever o código da API.
+Express: Framework utilizado para construir a API.
+MySQL: Banco de dados utilizado para armazenar as informações da loja.
+JSON Web Token (JWT): Biblioteca utilizada para autenticação e autorização dos usuários.
+
+<b>Considerações finais</b>
+
+Este projeto é um exemplo simples de como utilizar o Typescript para criar uma API de loja de itens medievais. É possível expandir e melhorar as funcionalidades da API, além de utilizar diferentes tecnologias para implementar recursos adicionais.
